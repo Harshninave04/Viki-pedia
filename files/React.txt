@@ -1,0 +1,1 @@
+React is a javascript library for creating dynamic websites.
